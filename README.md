@@ -81,11 +81,12 @@ pagination
 Drag and Drop
 https://youtu.be/jfYWwQrtzzY
 
-## Full projects
 Responsive Admin Dashboard
 https://www.youtube.com/watch?v=gdA1G5h-D80
 
-ecommerce
+Shopping Cart
+
+e-commerce
 
 ## Machine Learning
 AI Eye tracking
