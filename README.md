@@ -1,32 +1,24 @@
-# javascript
-
-Dark Mode Toggle
+# Javascript
 
 [x] [Root Dark Mode](./dark-mode-basic)
 
 [x] [Create Animated Background](./dark-mode-animated)
 
-<!-- 
-[] [Responsive Pricing Table with Dark and Light Mode](https://www.youtube.com/watch?v=ihCI3Mkp3GE) 
--->
-
 [x] [Zoom effect](./zoom-effect)
 
 [x] [Tab Menu](./tab-menu)
 
-[x] [Digital Clock](https://www.youtube.com/watch?v=paiI1N96EpQ)
+[x] [Digital Clock](./clock-digital)
 
-[x] [Analog Clock]()
+[x] [Analog Clock](./clock-analog)
 
-[x] [Countdown-timer](https://www.youtube.com/watch?v=dtKciwk_si4&t=72s)
+[x] [Countdown Timer](./clock-countdown)
 
-[] [Reviews](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s)
+[x] [Reviews Slider](./reviews-slider)
 
-[] [Make Testimonial Slider](https://www.youtube.com/watch?v=fzgLWi40-2g)
+[x] [Infinite scroll](./infinite-scroll)
 
-quiz-app
-https://www.youtube.com/watch?v=dtKciwk_si4&t=1935s
-https://youtu.be/riDzcEQbX6k
+[x] [Quiz App](./quiz-app)
 
 [] [Notes App](https://www.youtube.com/watch?v=dtKciwk_si4&t=11997s)
 https://www.youtube.com/watch?v=b8sUhU_eq3g - LEGAL
@@ -41,10 +33,10 @@ https://www.youtube.com/watch?v=dtKciwk_si4&t=29405s
 https://www.youtube.com/watch?v=OE7kml0pigw
 https://www.youtube.com/watch?v=WZNG8UomjSI
 
-[] [Github Profiles Simple](https://www.youtube.com/watch?v=dtKciwk_si4&t=20395s)
+[] [Github Random Profile](https://www.youtube.com/watch?v=dtKciwk_si4&t=20395s)
 Random user florin
 
-[] [Github Profiles with Pagination]()
+[] [Github Profiles with Pagination/Scrolling](ROCKETSEAT - huntweb)
 
 [] [Google Maps Clone](https://youtu.be/OySigNMXOZU)
 
@@ -54,12 +46,9 @@ Random user florin
 
 [] [Password Generator](https://www.youtube.com/watch?v=iKo9pDKKHnc)
 
+[] [Grocery Menu](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)
 
-Grocery Menu
-https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s
-
-Portfolio Filter Gallery
-https://www.youtube.com/watch?v=ATeWQlY3N04
+[] [Portfolio Filter Gallery](https://www.youtube.com/watch?v=ATeWQlY3N04)
 
 [] [Smooth Page transition](https://www.youtube.com/watch?v=1dJT-99KpiI)
 
@@ -75,17 +64,6 @@ https://www.youtube.com/watch?v=ATeWQlY3N04
 
 [] [Rock Paper Scissors](https://www.youtube.com/watch?v=1yS-JV4fWqY)
 
-## Machine Learning
-[] [AI Rock Paper Scissors]()
-
-[] [AI Eye tracking](https://youtu.be/6s2Ug-eVpVc)
-
-[] [AI Face detection](https://youtu.be/CVClHLwv-4I)
-
-[] [AI Face recognition](https://youtu.be/AZ4PdALMqx0)
-
-[] [AI Text to Speech](https://youtu.be/nx_k1XCaWWs)
-
-[] [AI Speech to Text]()
-
-[] [Youtube Recommender](https://towardsdatascience.com/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3)
+[] [Websocket exemplo]()
+[] [WebRTC exemplo]()
+[] [WebGl exemplo]()
