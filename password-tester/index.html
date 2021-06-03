@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <script src="https://kit.fontawesome.com/96a4b10d55.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Password Strength Checker</title>
+</head>
+<body>
+    <div class="center">
+        <div class="form">
+            <div class="form-element">
+                <input type="password" id="password-field">
+                <div class="toggle-password">
+                    <i class="fa fa-eye"></i>
+                    <i class="fa fa-eye-slash"></i>
+                </div>
+                <div class="password-policies">
+                    <div class="policy-length">
+                        <i class="fas fa-check icons"></i>
+                        <i class="fas fa-times icons"></i>
+                        8 Characters
+                    </div>
+                    <div class="policy-number">
+                        <i class="fas fa-check icons"></i>
+                        <i class="fas fa-times icons"></i>
+                        Contains Number
+                    </div>
+                    <div class="policy-uppercase">
+                        <i class="fas fa-check icons"></i>
+                        <i class="fas fa-times icons"></i>
+                        Contains Uppercase
+                    </div>
+                    <div class="policy-special">
+                        <i class="fas fa-check icons"></i>
+                        <i class="fas fa-times icons"></i>
+                        Contains Special Character
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
