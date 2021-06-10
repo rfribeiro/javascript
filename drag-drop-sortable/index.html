@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Drag and Drop - kanban</title>
+</head>
+<body>
+    <div class="content">
+        <h1>Kanban Project</h1>
+        <div class="boards">
+            <div class="board">
+                <h3>Todo</h3>
+                <div class="dropzone">
+                    <div class="card" draggable="true">
+                        <div class="card-status green"></div>
+                        <div class="card-content">Card 1</div>
+                    </div>
+                    <div class="card" draggable="true">
+                        <div class="card-status green"></div>
+                        <div class="card-content">Card 1.1</div>
+                    </div>
+                </div>
+            </div>
+            <div class="board">
+                <h3>In Progress</h3>
+                <div class="dropzone">
+                    <div class="card" draggable="true">
+                        <div class="card-status blue"></div>
+                        <div class="card-content">Card 2</div>
+                    </div>
+                </div>
+            </div>
+            <div class="board">
+                <h3>Done</h3>
+                <div class="dropzone">
+                    <div class="card" draggable="true">
+                        <div class="card-status red"></div>
+                        <div class="card-content">Card 3</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
