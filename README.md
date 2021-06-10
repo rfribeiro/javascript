@@ -20,25 +20,27 @@
 
 - [x] [Quiz App](./quiz-app)
 
-- [] [Notes App](https://www.youtube.com/watch?v=dtKciwk_si4&t=11997s)
-https://www.youtube.com/watch?v=b8sUhU_eq3g - LEGAL
-https://www.youtube.com/watch?v=1T27aQ7wb58 - SeC
-https://www.youtube.com/watch?v=W7FaYfuwu70
-https://www.youtube.com/watch?v=Ttf3CEsEwMQ
+- [] [Notes App](https://www.youtube.com/watch?v=b8sUhU_eq3g)
 
 - [] [Movies App](https://www.youtube.com/watch?v=dtKciwk_si4&t=17174s)
 
-- [x] [Weather-app](https://www.youtube.com/watch?v=WZNG8UomjSI)
+- [x] [Weather-app](./weather-app)
 
-- [x] [Github Profile](https://www.youtube.com/watch?v=dtKciwk_si4&t=20395s)
+- [x] [Github Profile](./github-profile-simple)
 
-- [x] [Google Maps Clone](https://youtu.be/OySigNMXOZU)
+- [x] [Google Maps Clone](./maps-clone)
 
 - [] [QR code scanner](https://itnext.io/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614)
 
 - [x] [Password Checker](./password-tester)
 
-- [x] [Password Generator](https://www.youtube.com/watch?v=iKo9pDKKHnc)
+- [x] [Password Generator](./password-generator)
+
+- [x] [Drag and Drop - Simple](./drag-drop-simple)
+
+- [x] [Drag and Drop - Multiple](./drag-drop-multiple)
+
+- [x] [Drag and Drop - Sortable](./drag-drop-sortable)
 
 - [] [Grocery Menu](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)
 
@@ -48,20 +50,16 @@ https://www.youtube.com/watch?v=Ttf3CEsEwMQ
 
 - [] [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
 
-- [] [Drag and Drop](https://www.youtube.com/watch?v=C22hQKE_32c)
-
-- [] [Drag and Drop](https://www.youtube.com/watch?v=tZ45HZAkbLc)
-
-- [] [Drag and Drop - Sorted](https://youtu.be/jfYWwQrtzzY)
-
-- [] [Responsive Admin Dashboard](https://www.youtube.com/watch?v=gdA1G5h-D80)
-
 - [] [E-Commerce Shopping Cart]()
 
 - [] [E-Commerce Front-End]()
 
+- [] [Responsive Admin Dashboard](https://www.youtube.com/watch?v=gdA1G5h-D80)
+
 - [] [Rock Paper Scissors](https://www.youtube.com/watch?v=1yS-JV4fWqY)
 
 - [] [Websocket exemplo]()
+
 - [] [WebRTC exemplo]()
-- [] [WebGl exemplo]()
+
+- [] [WebGL exemplo]()
