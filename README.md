@@ -20,17 +20,17 @@
 
 - [x] [Quiz App](./quiz-app)
 
-- [] [Notes App](https://www.youtube.com/watch?v=b8sUhU_eq3g)
+- [x] [To Do App](./to-do)
 
-- [] [Movies App](https://www.youtube.com/watch?v=dtKciwk_si4&t=17174s)
+- [x] [To Do App - Better](./to-do-better)
+
+- [x] [Movies App](./movie-app)
 
 - [x] [Weather-app](./weather-app)
 
 - [x] [Github Profile](./github-profile-simple)
 
 - [x] [Google Maps Clone](./maps-clone)
-
-- [] [QR code scanner](https://itnext.io/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614)
 
 - [x] [Password Checker](./password-tester)
 
@@ -44,17 +44,19 @@
 
 - [] [Grocery Menu](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)
 
-- [] [Portfolio Filter Gallery](https://www.youtube.com/watch?v=ATeWQlY3N04)
+- [2] [Portfolio Filter Gallery](https://www.youtube.com/watch?v=ATeWQlY3N04)
 
-- [] [Smooth Page transition](https://www.youtube.com/watch?v=1dJT-99KpiI)
+- [3] [Smooth Page transition](https://www.youtube.com/watch?v=1dJT-99KpiI)
 
-- [] [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
+- [7] [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
 
-- [] [E-Commerce Shopping Cart]()
+- [x] [E-Commerce Shopping Cart](./shopping-cart)
 
-- [] [E-Commerce Front-End]()
+- [x] [E-Commerce Shopping Cart - Floating](./shopping-cart-2)
 
-- [] [Responsive Admin Dashboard](https://www.youtube.com/watch?v=gdA1G5h-D80)
+<!-- https://www.youtube.com/watch?v=5B5Hn9VvrVs -->
+
+- [6] [E-Commerce Front-End]()
 
 - [] [Rock Paper Scissors](https://www.youtube.com/watch?v=1yS-JV4fWqY)
 
