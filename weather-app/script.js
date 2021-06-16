@@ -1,5 +1,5 @@
 const weather = {
-    apiKey: '5902bf301750a03dafb7f7531ebd096c',
+    apiKey: 'xxxxxxxxxxxxxxxxxxx',
     fetchWeather: fetchWeather,
     displayWeather: displayWeather,
     searchWeather: searchWeather,
