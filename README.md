@@ -42,7 +42,7 @@
 
 - [x] [Drag and Drop - Sortable](./drag-drop-sortable)
 
-- [] [Grocery Menu](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)
+- [ ] [Grocery Menu](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)
 
 - [2] [Portfolio Filter Gallery](https://www.youtube.com/watch?v=ATeWQlY3N04)
 
@@ -58,10 +58,10 @@
 
 - [6] [E-Commerce Front-End]()
 
-- [] [Rock Paper Scissors](https://www.youtube.com/watch?v=1yS-JV4fWqY)
+- [ ] [Rock Paper Scissors](https://www.youtube.com/watch?v=1yS-JV4fWqY)
 
-- [] [Websocket exemplo]()
+- [ ] [Websocket exemplo]()
 
-- [] [WebRTC exemplo]()
+- [ ] [WebRTC exemplo]()
 
-- [] [WebGL exemplo]()
+- [ ] [WebGL exemplo]()
